@@ -17,7 +17,7 @@ The project focuses on:
 
 ---
 
-## 🛠 Tech Stack Used
+##  Tech Stack Used
 
 ### Frontend
 
